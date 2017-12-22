@@ -18,10 +18,9 @@
     <meta name="twitter:description" content="application de location de vélos, paris">
     <meta name="twitter:image" content="images/slider/petite_fille_mascotte.jpg">
     
-    <link rel="shortcut icon" type="image/x-icon" href="img/icone.jpg" />
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
     
-    <link rel="stylesheet" href="img/font-awesome/css/font-awesome.min.css">
-    
+    <link rel="stylesheet" href="img/font-awesome/css/font-awesome.min.css">    
     <link rel="stylesheet" href="style.css" />
     
     <title>Blog écrivain</title>
